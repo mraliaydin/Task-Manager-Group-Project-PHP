@@ -40,9 +40,9 @@ Users can use these features:
 
 ## Contributors
 <br>
--Ali Aydın
-<br>
 -Bedirhan Kara
+<br>
+-Ali Aydın
 
 
 

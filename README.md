@@ -42,7 +42,7 @@ Users can use these features:
 <br>
 -Bedirhan Kara
 <br>
--Ali Aydın
+-Ezgi Melis Coşar
 
 
 
